@@ -134,7 +134,6 @@ public class ChatActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private void sendMessage() {
-        ////////
         if (!ObjectUtil.isEmpty(etTypeMessage.getText().toString()) && !ObjectUtil.isEmpty(this.signUpUser)) {
             FirebaseChat message = new FirebaseChat();
             message.setFirebaseMessage(etTypeMessage.getText().toString());
