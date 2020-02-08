@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "666243956807",
+    "firebase_url": "https://demoapp-893e5.firebaseio.com",
+    "project_id": "demoapp-893e5",
+    "storage_bucket": "demoapp-893e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666243956807:android:509f647001d6117aa9b162",
+        "android_client_info": {
+          "package_name": "com.pank.pankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666243956807-hc2r3diqg3b3jplkba68d95m69co8agb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pank.pankapp",
+            "certificate_hash": "92290c984e4e1b91f73ab84b87e9d6f41c152925"
+          }
+        },
+        {
+          "client_id": "666243956807-gvekmsr37va7lkki0gkpiqovcshoqknr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pank.pankapp",
+            "certificate_hash": "9ee8cfc54a7e8fa950d9543d56cefb3da9092431"
+          }
+        },
+        {
+          "client_id": "666243956807-4d3nv2c9t22i8bsea8qo2t1sqgqom2hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbm72c7urOiqLZYVcgG0sKHve7a_s-nCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666243956807-4d3nv2c9t22i8bsea8qo2t1sqgqom2hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

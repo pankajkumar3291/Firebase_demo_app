@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="progressDialogStyle" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="ScaleFromCenter">
+        <item name="android:windowEnterAnimation">@anim/scale_from_center</item>
+        <item name="android:windowExitAnimation">@anim/collapse_to_center</item>
+    </style>
+
+    <style name="PermissionDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert" />
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="StyleEditTextThemeColorBlack">
+        <item name="android:imeOptions">actionNext</item>
+        <item name="android:singleLine">true</item>
+        <item name="colorControlNormal">@color/text_gray_color</item>
+        <item name="colorControlActivated">@color/text_gray_color</item>
+        <item name="android:textColorPrimary">@color/text_gray_color</item>
+        <item name="android:textColorHint">@color/text_gray_color</item>
+    </style>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/quantityValueContainer"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_33sdp"
+    android:layout_gravity="center"
+    android:layout_margin="@dimen/_2sdp"
+    android:background="@drawable/line_border_rounded"
+    android:orientation="horizontal"
+    android:padding="@dimen/_5sdp"
+    android:weightSum="1">
+
+    <com.pank.pankapp.components.FontAwesomeIcon
+        android:id="@+id/minus"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="0.20"
+        android:background="@drawable/quantity_field_round_shape"
+        android:gravity="center"
+        android:text="@string/icon_minus"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/_12ssp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/value"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.60"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+        android:text="20"
+        android:textAlignment="center"
+        android:textSize="@dimen/_12sdp" />
+
+    <com.pank.pankapp.components.FontAwesomeIcon
+        android:id="@+id/plus"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="0.20"
+        android:background="@drawable/quantity_field_round_shape"
+        android:gravity="center"
+        android:text="@string/icon_plus"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/_12ssp"
+        android:textStyle="normal" />
+
+</LinearLayout>

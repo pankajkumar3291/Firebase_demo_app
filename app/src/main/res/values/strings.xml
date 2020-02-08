@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name" translatable="false">DemoApp</string>
+
+    <string name="no_internet_label">Internet Not Available</string>
+    <string name="check_your_connection">Please check your connection.</string>
+    <string name="reallyExit">Do you really want to exit?</string>
+    <string name="cancel_str">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="sureToDelete">Are you sure you want to delete?</string>
+    <string name="logout">Logout</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="chat">Comments</string>
+
+    <string name="are_you_sure_you_want_to_logout">Are you sure you want to Logout?</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forget_your_password">Forget Password</string>
+    <string name="new_registration">Don\'t have an account?</string>
+    <string name="register">Register here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="all_fields_required">All fields are required</string>
+    <string name="valid_email">Please enter valid email</string>
+    <string name="valid_phone_number">Please enter valid phone number</string>
+    <string name="confirm_password_not_matched">Confirm password not matched</string>
+    <string name="password_min_character">Password minimum character should be 6</string>
+    <string name="forget_password_instructions">We just need your registered Email Id to sent you password instructions.</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="dob">Date Of Birth</string>
+    <string name="user_name">User Name</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="update">Update</string>
+    <string name="no_data_to_display">No data to display</string>
+    <string name="message">Messages</string>
+    <string name="type_message">Type a message</string>
+
+</resources>

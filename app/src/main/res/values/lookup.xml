@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="drawerMenuTitles">
+        <item>@string/home</item>
+        <item>@string/chat</item>
+        <item>@string/logout</item>
+    </string-array>
+
+    <string-array name="drawerMenuImages">
+        <item>@string/icon_home</item>
+        <item>@string/icon_comment</item>
+        <item>@string/icon_logout</item>
+    </string-array>
+
+</resources>
